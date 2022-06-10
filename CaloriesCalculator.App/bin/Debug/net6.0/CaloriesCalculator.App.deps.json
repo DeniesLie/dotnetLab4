@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CaloriesCalculator.App/1.0.0": {
+        "dependencies": {
+          "CaloriesCalculatorCore": "1.0.0"
+        },
+        "runtime": {
+          "CaloriesCalculator.App.dll": {}
+        }
+      },
+      "CaloriesCalculatorCore/1.0.0": {
+        "runtime": {
+          "CaloriesCalculatorCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaloriesCalculator.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CaloriesCalculatorCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

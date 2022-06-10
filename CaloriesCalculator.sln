@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaloriesCalculatorCore", "CaloriesCalculatorCore\CaloriesCalculatorCore.csproj", "{A3FFF690-B3C3-4643-81AB-18ECE089DF91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaloriesCalculator.App", "CaloriesCalculator.App\CaloriesCalculator.App.csproj", "{3BF9170C-E571-46B7-A8D6-34A546AEFF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FFF690-B3C3-4643-81AB-18ECE089DF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FFF690-B3C3-4643-81AB-18ECE089DF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FFF690-B3C3-4643-81AB-18ECE089DF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FFF690-B3C3-4643-81AB-18ECE089DF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF9170C-E571-46B7-A8D6-34A546AEFF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF9170C-E571-46B7-A8D6-34A546AEFF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF9170C-E571-46B7-A8D6-34A546AEFF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF9170C-E571-46B7-A8D6-34A546AEFF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
